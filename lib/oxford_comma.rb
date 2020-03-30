@@ -1,7 +1,9 @@
 def oxford_comma(array)
   if "kiwi"
   ["kiwi"].join
-  elsif "durian"
+else
+end
+  if "durian"
   ["kiwi", "durian"].join(" and ")
 else
 end
